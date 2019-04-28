@@ -18,29 +18,30 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392">
+	Predicting Football matches using Tensorflow, Fifa ratings and starting lineups. 
+	</a></li>
+	<li><a href="">This is not a Fortnite skin</a></li>
 </ul>
+
+<h2>Skills</h2>
+
+<ul class="skill-list">
+	<li>Python</li>
+	<li>Git</li>
+	<li>Linux</li>
+	<li>Spark</li>
+	<li>Hadoop</li>
+	<li>AWS</li>
+	<li>PyTorch</li>
+	<li>Tensorflow</li>
+	<li>Scikit-learn</li>
+	<li>NumPy</li>
+	<li>Pandas</li>
+	<li>Flask</li>
+	<li>PostgreSQL</li>
+</ul>
+
