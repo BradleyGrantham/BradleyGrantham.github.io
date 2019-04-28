@@ -24,10 +24,7 @@ keywords: "data scientist developer python github"
 url: http://bradleygrantham.github.io
 baseurl: "/index"
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+repo: http://github.com/bradleygrantham/BradleyGrantham.github.io
 
 # Author settings
 author:
