@@ -22,7 +22,7 @@ title: BradleyGrantham
 description: "My personal website"
 keywords: "data scientist developer python github"
 url: http://bradleygrantham.github.io
-baseurl: "/index"
+baseurl: "/"
 
 repo: http://github.com/bradleygrantham/BradleyGrantham.github.io
 
