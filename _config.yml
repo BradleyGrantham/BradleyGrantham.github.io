@@ -1,1 +1,53 @@
-theme: jekyll-theme-slate
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: "/page/:num/"
+
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: BradleyGrantham
+description: "My personal website"
+keywords: "data scientist developer python github"
+url: http://bradleygrantham.github.io
+baseurl: "/index"
+
+google_analytics: UA-52446115-1
+repo: http://github.com/nandomoreirame/end2end
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
+
+# Author settings
+author:
+  name: Bradley Grantham
+  job: Data Scientist at Channel 4
+  bio: "My personal website which contains a few blog posts and my CV."
+  thumb: /images/author.png
+  email: 
+  url: https://bradleygrantham.github.io
+  github: https://github.com/bradleygrantham
+  twitter: https://twitter.com/bradleygrantham
+  linkedin: https://linkedin.com/in/bradley-grantham-7b8b29a8/
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: icons
+    title: Icons
+  - slug: blog
+    title: Blog
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
