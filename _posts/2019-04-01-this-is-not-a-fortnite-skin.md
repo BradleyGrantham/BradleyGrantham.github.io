@@ -1,5 +1,5 @@
 ---
-title: ":brain: This is not a Fortnite skin"
+title: ":sunrise: This is not a Fortnite skin"
 layout: post
 date: 2019-04-01 22:00
 tag: jekyll
