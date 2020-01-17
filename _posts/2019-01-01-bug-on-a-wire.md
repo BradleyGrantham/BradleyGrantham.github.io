@@ -1,5 +1,5 @@
 ---
-title: ":video_game: Playing Bug on a Wire with a GAN"
+title: ":video_game: Playing Bug on a Wire with a DQN"
 layout: post
 date: 2019-01-01 22:00
 tag: jekyll
